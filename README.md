@@ -28,18 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Hospital Patient & Healthcare Analytics
-Python | MySQL | Machine Learning | Power BI
-
-### 🛒 Olist E-Commerce Analytics
-MySQL | Power BI | Excel | DAX
-
-### 🚦 Smart Mobility & Congestion Forecasting
-Python | Machine Learning | Traffic Analytics
-
----
 
 ## 📊 GitHub Stats
 
