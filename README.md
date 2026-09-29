@@ -1,8 +1,9 @@
 ## 🧑‍💻 About Me
 
 - 📊 Aspiring Data Analyst focused on **Data Analytics, Business Intelligence, and Dashboard Development**
-- 🛠️ Skilled in **Python, SQL, MySQL, Power BI, Excel, and Machine Learning**
-- 🔍 Interested in **data cleaning, visualization, predictive analytics, and business insights**
+- 🛠️ Hands-on experience with **Python, SQL, MySQL, Power BI, and Excel**
+- 🔍 Focused on **data cleaning, data analysis, visualization, and business insights**
+- 🤖 Exploring **Machine Learning** for predictive analytics
 - 🚀 Building end-to-end analytics projects based on real-world business scenarios
 - 💼 Open to **Data Analyst** and **Business Intelligence** opportunities
 
@@ -31,15 +32,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ydvadityaa&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvadityaa&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
----
+--- -->
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ydvadityaa&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
+</p> -->
